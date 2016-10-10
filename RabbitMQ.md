@@ -1,6 +1,6 @@
 # RabbitMQ Server FAQ [2016/10/10]  
 * erlang >= R16B-03 is needed by rabbitmq  
- 1.  erlang 19 is not supported, use previous versino  
+ 1.  erlang 19 is not supported, use previous versin  
  2.  download rabbitmq pkg from [here](https://github.com/rabbitmq/erlang-rpm/releases)   
  
 * login failed on localhost using "guest"  
