@@ -1,4 +1,4 @@
-#[2016/10/10]  
+# RabbitMQ Server FAQ [2016/10/10]  
 * erlang >= R16B-03 is needed by rabbitmq  
  1.  erlang 19 is not supported, use previous versino  
  2.  download rabbitmq pkg from [here](https://github.com/rabbitmq/erlang-rpm/releases)   
